@@ -15,7 +15,7 @@
 |              Midterm Exam               | 93/100  |
 |               Final Exam                | 94/100  |
 
-**This repository contains all the material from this course, including links to the answers to the textbook questions.   (The answers to all the problem sets are not limited to the problem sets. You can press "ctrl" and click the hyperlink to go to it).**
+**This repository contains all the material from this course, including links to the answers to the textbook questions.   (The answers to all the problem sets are not limited to the problem sets. You can click the hyperlink to go to it).**
 
 #### All in all, interest is the best teacher. I found this course very interesting and it stimulated me to explore the development process of simple Web applications. I hope you will enjoy it too !!!!
 
